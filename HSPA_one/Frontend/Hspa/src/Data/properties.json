@@ -1,0 +1,56 @@
+[
+  {
+    "Id" :1,
+    "SellRent": 1,
+    "Name": "Nicos Home",
+    "Type": "House",
+    "Price" : 12000,
+    "Image": "house"
+},
+{
+  "Id" :2,
+  "SellRent": 1,
+  "Name": "Diena Villa",
+  "Type": "House",
+  "Price" : 13000
+},
+{
+"Id" :3,
+"SellRent": 2,
+"Name": "Rogers Villa",
+"Type": "House",
+"Price" : 10000,
+"Image": "houz"
+},
+{
+"Id" :4,
+"SellRent": 1,
+"Name": "Nicos villa",
+"Type": "House",
+"Price" : 19000,
+"Image": "house"
+},
+{
+"Id" :5,
+"SellRent": 2,
+"Name": "Timoz Home",
+"Type": "House",
+"Price" : 32000,
+"Image": "houz"
+},
+{
+"Id" :6,
+"SellRent": 1,
+"Name": "Waves Mana",
+"Type": "House",
+"Price" : 45000
+},
+{
+"Id" :7,
+"SellRent": 2,
+"Name": "All Cortages",
+"Type": "House",
+"Price" : 67000
+}
+
+]
